@@ -1,2 +1,5 @@
 # Coursera
 training
+
+$description.
+
